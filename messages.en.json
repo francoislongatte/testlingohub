@@ -1,7 +1,18 @@
 {
-  "locale": "en",
-  "translations": {
-    "4156827847246201602": "ANGLAIS TITLE",
-    "body": "ANGLAIS BODY"
-  }
+    "tile": {
+        "title": ""
+    },
+    "locale": "",
+    "translations": {
+        "body": {
+            "one": "",
+            "other": ""
+        }
+    },
+    "un contexte": {
+        "poeditor": {
+            "one": "poanglais",
+            "other": ""
+        }
+    }
 }
